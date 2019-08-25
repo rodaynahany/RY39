@@ -1,11 +1,12 @@
 body {
        color:rgb(90,55,23);
        font-family: arial;
-       margin: opx;
+       margin: 0px;
+ background-image: url("../");
  }
 h1,h2{
       text-align: center;
-}
+}g
 
 h1 {
     font-size: Sem;
